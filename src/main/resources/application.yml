@@ -12,7 +12,6 @@ spring:
       settings.trace: false
       settings.web-allow-others: false
   jpa:
-#    database-platform: org.hibernate.dialect.H2Dialect
     properties.hibernate.globally_quoted_identifiers: true
     defer-datasource-initialization: false
     hibernate.ddl-auto: update
