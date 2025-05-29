@@ -31,8 +31,7 @@ class LruCacheServiceTest {
 
     @Test
     void get() {
-//        when(repository.getReferenceById())
-//        cacheService.get("name");
+
     }
 
     @Test
